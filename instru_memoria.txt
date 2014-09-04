@@ -87,4 +87,4 @@ hexadecimal:
 |    valor externo  |   |obs|
 
 binário: 	
-hexadecimal:
+hexadecimal::
